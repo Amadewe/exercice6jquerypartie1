@@ -1,4 +1,4 @@
 // Cacher tous les éléments de la classe hide.
 $(function() {
-  $('.hide').toggle();
+  $('.hide').hide();
 });
